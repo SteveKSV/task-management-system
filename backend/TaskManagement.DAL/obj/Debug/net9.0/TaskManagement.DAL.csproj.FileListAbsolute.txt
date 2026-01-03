@@ -1,0 +1,15 @@
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\bin\Debug\net9.0\TaskManagement.DAL.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\bin\Debug\net9.0\TaskManagement.DAL.runtimeconfig.json
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\bin\Debug\net9.0\TaskManagement.DAL.dll
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\bin\Debug\net9.0\TaskManagement.DAL.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.sourcelink.json
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.dll
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\refint\TaskManagement.DAL.dll
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\TaskManagement.DAL.genruntimeconfig.cache
+C:\Users\amigo\OneDrive\Рабочий стол\task-management-system\backend\TaskManagement.DAL\obj\Debug\net9.0\ref\TaskManagement.DAL.dll
